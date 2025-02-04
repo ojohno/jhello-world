@@ -1,2 +1,4 @@
 # jhello-world
-Testing Testing Test
+Hi Everyone,
+
+Using Github like a ninja.
